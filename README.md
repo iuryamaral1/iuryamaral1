@@ -58,7 +58,7 @@
 <div>
 <img align="left" alt="Docker" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Jenkins" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="Kubernetes" width="170px" src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" />
+<img align="left" alt="Kubernetes" width="150px" src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" />
 <img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="Bitbucket" width="170px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png" />
 <img align="left" alt="Gitlab" width="170px" src="https://img2.gratispng.com/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg" />
