@@ -62,6 +62,7 @@
 <img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 <img align="left" alt="Bitbucket" width="170px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png" />
 <img align="left" alt="Gitlab" width="170px" src="https://img2.gratispng.com/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg" />
+<img align="left" alt="Apache Kafka" width="170px" src="https://kafka.apache.org/logos/kafka_logo--simple.png" />
 </div>
 <br>
 <br>
