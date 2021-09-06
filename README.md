@@ -19,7 +19,7 @@
 #### Backend
 <div>
 	<img align="left" alt="Java" width="70px" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-	<img align="left" alt="Kotlin" width="70px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" />
+	<img align="left" alt="Kotlin" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
 	<img align="left" alt="Spring Boot" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Python" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="Django" width="70px" src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" />
