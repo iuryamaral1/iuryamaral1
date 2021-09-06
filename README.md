@@ -4,7 +4,7 @@
 
 - :computer: I love to explore new technologies.
 - :fire: I love to be challenged.
-- 🥅 Goals: Contribute more to Open Source projects.
+- 🥅 Goals: Develop new ideas and contribute to open source projects.
 - ⚡ I love spending time with my wife and my son.
 
 ### Connect with me 
