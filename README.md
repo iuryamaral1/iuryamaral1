@@ -1,88 +1,37 @@
-### Hi there, I'm Iury Amaral👋  
+# Hi there, I'm Iury Amaral <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>  
 
-## I'm a Full stack Developer!!
+![GitHub last commit](https://img.shields.io/github/last-commit/iuryamaral1/oli-saude-backend-challenge)
+![pv](https://pageview.vercel.app/?github_user=iuryamaral1)
+
+## 🤖 I'm a software engineer!!
 
 - :computer: I love to explore new technologies.
 - :fire: I love to be challenged.
 - 🥅 Goals: Develop new ideas and contribute to open source projects.
 - ⚡ I love spending time with my wife and my son.
 
-### Connect with me 
+## About me
+- ⭐ I have started my software development career in 2015.
+- 🖥️ I have worked for many challenging projects involving logistics, banking, financials, health and ecommerce.
+- 🧑‍🎓 I have a bachelor's degree in system analysis from Estacio University.
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+## Things I code with:
 
-<br />
-<br />
-
-### Languages and Tools:
---------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Backend
-<div>
-	<img align="left" alt="Java" width="70px" 	src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-	<img align="left" alt="Kotlin" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-	<img align="left" alt="Spring Boot" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Python" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="Django" width="70px" src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" />
-</div>
-<br>
-<br>
-<br>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/> <img src="https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=ktor&logoColor=white" alt="Ktor Badge"/> <img src="https://img.shields.io/badge/Vertx-7F52FF?style=for-the-badge&logo=vertx&logoColor=white" alt="Vertx Badge"/>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Databases
-<div>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> <img src="https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB Badge"/><br/>
 
-<img align="left" alt="Postgresql" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Mysql" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</div>
-<br>
-<br>
-<br>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Frontend
-<div>
-<img align="left" alt="Angular" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/> <img src="https://img.shields.io/badge/Javascript-2088FF?style=for-the-badge&logo=javascript&logoColor=white" alt="GitHub Actions Badge"/>
 
-<img align="left" alt="JavaScript" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-</div>
-<br>
-<br>
-<br>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Tools
-<div>
-<img align="left" alt="Docker" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Jenkins" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="Kubernetes" width="150px" src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" />
-<img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="Bitbucket" width="170px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png" />
-<img align="left" alt="Gitlab" width="170px" src="https://img2.gratispng.com/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg" />
-<img align="left" alt="Apache Kafka" width="170px" src="https://kafka.apache.org/logos/kafka_logo--simple.png" />
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/> <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud Badge"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge"/> <img src="https://img.shields.io/badge/Testcontainers-000000?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers Badge"/> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose Badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/> <img src="https://img.shields.io/badge/Jenkins-2088FF?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> 
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka Badge"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS Badge"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5 Badge"/> 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Cloud
-<div>
-<img align="left" alt="AWS" width="70px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-</div>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/iury-amaral-8a6294130/
+## Connect with me 
+<a href="https://www.linkedin.com/in/iury-amaral-8a6294130">
+	<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
